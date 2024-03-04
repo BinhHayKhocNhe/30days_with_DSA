@@ -47,7 +47,7 @@ void printf(int arr[], int n){
 }
 
 int main(){
-	int array[] = {7, 10, 2, 5, 8, 13, 272, 1, -3, 91};
+	int array[] = {12, 0, -3, 131, 53, 3103, 1, 3};
 	int n =  sizeof(array) / sizeof(array[0]);
 	printf("Mang ban dau: ");
 	printf(array, n);
